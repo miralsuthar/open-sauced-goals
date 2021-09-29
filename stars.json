@@ -1,27 +1,27 @@
 [
   {
     "full_name": "slipHQ/run-wasm",
-    "stargazers_count": 228,
-    "open_issues_count": 11,
-    "forks_count": 20
+    "stargazers_count": 255,
+    "open_issues_count": 12,
+    "forks_count": 23
   },
   {
     "full_name": "Developer-DAO/developer-dao-nft-contract",
-    "stargazers_count": 55,
+    "stargazers_count": 57,
     "open_issues_count": 1,
     "forks_count": 10
   },
   {
     "full_name": "Developer-DAO/developer-dao",
-    "stargazers_count": 88,
-    "open_issues_count": 19,
-    "forks_count": 32
+    "stargazers_count": 90,
+    "open_issues_count": 17,
+    "forks_count": 33
   },
   {
     "full_name": "nextui-org/nextui",
-    "stargazers_count": 341,
+    "stargazers_count": 354,
     "open_issues_count": 10,
-    "forks_count": 19
+    "forks_count": 21
   },
   {
     "full_name": "Dhaiwat10/sol-escrow",
@@ -37,27 +37,27 @@
   },
   {
     "full_name": "sveltejs/svelte",
-    "stargazers_count": 50632,
-    "open_issues_count": 597,
-    "forks_count": 2411
+    "stargazers_count": 50654,
+    "open_issues_count": 599,
+    "forks_count": 2415
   },
   {
     "full_name": "sveltejs/kit",
-    "stargazers_count": 4790,
-    "open_issues_count": 258,
+    "stargazers_count": 4800,
+    "open_issues_count": 261,
     "forks_count": 393
   },
   {
     "full_name": "snowpackjs/astro",
-    "stargazers_count": 7462,
-    "open_issues_count": 204,
+    "stargazers_count": 7518,
+    "open_issues_count": 197,
     "forks_count": 298
   },
   {
     "full_name": "chartjs/Chart.js",
-    "stargazers_count": 54874,
-    "open_issues_count": 106,
-    "forks_count": 11188
+    "stargazers_count": 54889,
+    "open_issues_count": 111,
+    "forks_count": 11190
   },
   {
     "full_name": "Dhaiwat10/furniture-exchange",
@@ -67,21 +67,21 @@
   },
   {
     "full_name": "react-navigation/react-navigation",
-    "stargazers_count": 20342,
-    "open_issues_count": 422,
-    "forks_count": 4378
+    "stargazers_count": 20348,
+    "open_issues_count": 424,
+    "forks_count": 4380
   },
   {
     "full_name": "supabase/supabase",
-    "stargazers_count": 19410,
-    "open_issues_count": 170,
-    "forks_count": 959
+    "stargazers_count": 19459,
+    "open_issues_count": 151,
+    "forks_count": 962
   },
   {
     "full_name": "fastify/fastify",
-    "stargazers_count": 20611,
+    "stargazers_count": 20632,
     "open_issues_count": 68,
-    "forks_count": 1510
+    "forks_count": 1511
   },
   {
     "full_name": "Nazeeh21/Lottery-Contract",
@@ -98,7 +98,7 @@
   {
     "full_name": "dailydotdev/apps",
     "stargazers_count": 167,
-    "open_issues_count": 5,
+    "open_issues_count": 4,
     "forks_count": 34
   },
   {
@@ -109,7 +109,7 @@
   },
   {
     "full_name": "twopluszero/next-images",
-    "stargazers_count": 777,
+    "stargazers_count": 778,
     "open_issues_count": 9,
     "forks_count": 59
   },
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "dethcrypto/TypeChain",
-    "stargazers_count": 1195,
+    "stargazers_count": 1198,
     "open_issues_count": 41,
     "forks_count": 161
   },
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "typescript-cheatsheets/react",
-    "stargazers_count": 28800,
+    "stargazers_count": 28829,
     "open_issues_count": 7,
-    "forks_count": 2244
+    "forks_count": 2245
   },
   {
     "full_name": "Dhaiwat10/ropsten-faucet",
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 73618,
-    "open_issues_count": 1114,
-    "forks_count": 14486
+    "stargazers_count": 73648,
+    "open_issues_count": 1119,
+    "forks_count": 14503
   },
   {
     "full_name": "Dhaiwat10/zenquotes",
@@ -163,14 +163,14 @@
   },
   {
     "full_name": "designcourse/threejs-webpack-starter",
-    "stargazers_count": 294,
+    "stargazers_count": 295,
     "open_issues_count": 8,
-    "forks_count": 272
+    "forks_count": 275
   },
   {
     "full_name": "adrianhajdin/project_chat_application",
     "stargazers_count": 2845,
     "open_issues_count": 32,
-    "forks_count": 789
+    "forks_count": 788
   }
 ]
