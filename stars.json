@@ -2,7 +2,7 @@
   {
     "full_name": "angeljgomezc/Coopefy",
     "stargazers_count": 4,
-    "open_issues_count": 10,
+    "open_issues_count": 11,
     "forks_count": 0
   },
   {
@@ -19,27 +19,27 @@
   },
   {
     "full_name": "slipHQ/run-wasm",
-    "stargazers_count": 324,
+    "stargazers_count": 327,
     "open_issues_count": 17,
     "forks_count": 36
   },
   {
     "full_name": "Developer-DAO/developer-dao-nft-contract",
-    "stargazers_count": 81,
+    "stargazers_count": 82,
     "open_issues_count": 1,
-    "forks_count": 13
+    "forks_count": 14
   },
   {
     "full_name": "Developer-DAO/developerdao.com",
-    "stargazers_count": 159,
-    "open_issues_count": 14,
-    "forks_count": 53
+    "stargazers_count": 166,
+    "open_issues_count": 20,
+    "forks_count": 55
   },
   {
     "full_name": "nextui-org/nextui",
-    "stargazers_count": 806,
-    "open_issues_count": 9,
-    "forks_count": 52
+    "stargazers_count": 823,
+    "open_issues_count": 6,
+    "forks_count": 51
   },
   {
     "full_name": "Dhaiwat10/sol-escrow",
@@ -55,27 +55,27 @@
   },
   {
     "full_name": "sveltejs/svelte",
-    "stargazers_count": 51798,
-    "open_issues_count": 621,
-    "forks_count": 2480
+    "stargazers_count": 51842,
+    "open_issues_count": 623,
+    "forks_count": 2481
   },
   {
     "full_name": "sveltejs/kit",
-    "stargazers_count": 5352,
-    "open_issues_count": 300,
-    "forks_count": 432
+    "stargazers_count": 5387,
+    "open_issues_count": 301,
+    "forks_count": 433
   },
   {
     "full_name": "snowpackjs/astro",
-    "stargazers_count": 8051,
+    "stargazers_count": 8086,
     "open_issues_count": 222,
-    "forks_count": 344
+    "forks_count": 346
   },
   {
     "full_name": "chartjs/Chart.js",
-    "stargazers_count": 55257,
-    "open_issues_count": 106,
-    "forks_count": 11256
+    "stargazers_count": 55284,
+    "open_issues_count": 108,
+    "forks_count": 11260
   },
   {
     "full_name": "Dhaiwat10/furniture-exchange",
@@ -85,21 +85,21 @@
   },
   {
     "full_name": "react-navigation/react-navigation",
-    "stargazers_count": 20504,
-    "open_issues_count": 450,
-    "forks_count": 4425
+    "stargazers_count": 20514,
+    "open_issues_count": 453,
+    "forks_count": 4428
   },
   {
     "full_name": "supabase/supabase",
-    "stargazers_count": 21166,
-    "open_issues_count": 158,
-    "forks_count": 1089
+    "stargazers_count": 21265,
+    "open_issues_count": 160,
+    "forks_count": 1097
   },
   {
     "full_name": "fastify/fastify",
-    "stargazers_count": 21009,
+    "stargazers_count": 21032,
     "open_issues_count": 78,
-    "forks_count": 1534
+    "forks_count": 1536
   },
   {
     "full_name": "Nazeeh21/Lottery-Contract",
@@ -115,19 +115,19 @@
   },
   {
     "full_name": "dailydotdev/apps",
-    "stargazers_count": 177,
+    "stargazers_count": 178,
     "open_issues_count": 9,
-    "forks_count": 37
+    "forks_count": 38
   },
   {
     "full_name": "calintamas/react-native-toast-message",
     "stargazers_count": 542,
-    "open_issues_count": 50,
+    "open_issues_count": 24,
     "forks_count": 109
   },
   {
     "full_name": "twopluszero/next-images",
-    "stargazers_count": 809,
+    "stargazers_count": 811,
     "open_issues_count": 10,
     "forks_count": 62
   },
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "dethcrypto/TypeChain",
-    "stargazers_count": 1307,
-    "open_issues_count": 22,
-    "forks_count": 171
+    "stargazers_count": 1309,
+    "open_issues_count": 23,
+    "forks_count": 172
   },
   {
     "full_name": "Dhaiwat10/simple-nft",
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "typescript-cheatsheets/react",
-    "stargazers_count": 29566,
-    "open_issues_count": 6,
-    "forks_count": 2333
+    "stargazers_count": 29594,
+    "open_issues_count": 5,
+    "forks_count": 2338
   },
   {
     "full_name": "Dhaiwat10/ropsten-faucet",
@@ -169,9 +169,9 @@
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 75898,
-    "open_issues_count": 1302,
-    "forks_count": 15025
+    "stargazers_count": 76028,
+    "open_issues_count": 1335,
+    "forks_count": 15059
   },
   {
     "full_name": "Dhaiwat10/zenquotes",
