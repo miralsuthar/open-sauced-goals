@@ -1,7 +1,7 @@
 [
   {
     "full_name": "Developer-DAO/DAO-job-board",
-    "stargazers_count": 53,
+    "stargazers_count": 54,
     "open_issues_count": 26,
     "forks_count": 29
   },
@@ -13,9 +13,9 @@
   },
   {
     "full_name": "Developer-DAO/web3-ui",
-    "stargazers_count": 260,
-    "open_issues_count": 29,
-    "forks_count": 52
+    "stargazers_count": 305,
+    "open_issues_count": 32,
+    "forks_count": 57
   },
   {
     "full_name": "stevene/DAOists",
@@ -26,7 +26,7 @@
   {
     "full_name": "moonshotcollective/moonswap",
     "stargazers_count": 5,
-    "open_issues_count": 8,
+    "open_issues_count": 9,
     "forks_count": 6
   },
   {
@@ -37,7 +37,7 @@
   },
   {
     "full_name": "slipHQ/run-wasm",
-    "stargazers_count": 362,
+    "stargazers_count": 364,
     "open_issues_count": 17,
     "forks_count": 41
   },
@@ -49,15 +49,15 @@
   },
   {
     "full_name": "Developer-DAO/developerdao.com",
-    "stargazers_count": 329,
+    "stargazers_count": 332,
     "open_issues_count": 11,
-    "forks_count": 79
+    "forks_count": 80
   },
   {
     "full_name": "nextui-org/nextui",
-    "stargazers_count": 1122,
+    "stargazers_count": 1227,
     "open_issues_count": 12,
-    "forks_count": 76
+    "forks_count": 83
   },
   {
     "full_name": "Dhaiwat10/sol-escrow",
@@ -73,27 +73,27 @@
   },
   {
     "full_name": "sveltejs/svelte",
-    "stargazers_count": 55017,
-    "open_issues_count": 639,
-    "forks_count": 2653
+    "stargazers_count": 55147,
+    "open_issues_count": 646,
+    "forks_count": 2665
   },
   {
     "full_name": "sveltejs/kit",
-    "stargazers_count": 6616,
-    "open_issues_count": 375,
-    "forks_count": 538
+    "stargazers_count": 6701,
+    "open_issues_count": 377,
+    "forks_count": 547
   },
   {
     "full_name": "withastro/astro",
-    "stargazers_count": 9964,
-    "open_issues_count": 127,
-    "forks_count": 477
+    "stargazers_count": 10043,
+    "open_issues_count": 131,
+    "forks_count": 481
   },
   {
     "full_name": "chartjs/Chart.js",
-    "stargazers_count": 55931,
-    "open_issues_count": 119,
-    "forks_count": 11347
+    "stargazers_count": 55980,
+    "open_issues_count": 120,
+    "forks_count": 11351
   },
   {
     "full_name": "Dhaiwat10/furniture-exchange",
@@ -103,21 +103,21 @@
   },
   {
     "full_name": "react-navigation/react-navigation",
-    "stargazers_count": 20763,
-    "open_issues_count": 484,
-    "forks_count": 4510
+    "stargazers_count": 20771,
+    "open_issues_count": 486,
+    "forks_count": 4511
   },
   {
     "full_name": "supabase/supabase",
-    "stargazers_count": 26851,
-    "open_issues_count": 207,
-    "forks_count": 1445
+    "stargazers_count": 26993,
+    "open_issues_count": 212,
+    "forks_count": 1461
   },
   {
     "full_name": "fastify/fastify",
-    "stargazers_count": 21848,
-    "open_issues_count": 74,
-    "forks_count": 1621
+    "stargazers_count": 21890,
+    "open_issues_count": 78,
+    "forks_count": 1623
   },
   {
     "full_name": "Nazeeh21/Lottery-Contract",
@@ -133,20 +133,20 @@
   },
   {
     "full_name": "dailydotdev/apps",
-    "stargazers_count": 215,
-    "open_issues_count": 12,
+    "stargazers_count": 217,
+    "open_issues_count": 5,
     "forks_count": 50
   },
   {
     "full_name": "calintamas/react-native-toast-message",
-    "stargazers_count": 638,
+    "stargazers_count": 642,
     "open_issues_count": 20,
     "forks_count": 122
   },
   {
     "full_name": "twopluszero/next-images",
-    "stargazers_count": 839,
-    "open_issues_count": 9,
+    "stargazers_count": 838,
+    "open_issues_count": 8,
     "forks_count": 63
   },
   {
@@ -159,13 +159,13 @@
     "full_name": "Dhaiwat10/react-link-preview",
     "stargazers_count": 79,
     "open_issues_count": 2,
-    "forks_count": 17
+    "forks_count": 18
   },
   {
     "full_name": "dethcrypto/TypeChain",
-    "stargazers_count": 1556,
+    "stargazers_count": 1562,
     "open_issues_count": 37,
-    "forks_count": 198
+    "forks_count": 201
   },
   {
     "full_name": "Dhaiwat10/simple-nft",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "typescript-cheatsheets/react",
-    "stargazers_count": 31046,
+    "stargazers_count": 31151,
     "open_issues_count": 0,
-    "forks_count": 2540
+    "forks_count": 2562
   }
 ]
