@@ -1,9 +1,9 @@
 [
   {
     "full_name": "Developer-DAO/DAO-job-board",
-    "stargazers_count": 63,
-    "open_issues_count": 24,
-    "forks_count": 34
+    "stargazers_count": 64,
+    "open_issues_count": 25,
+    "forks_count": 35
   },
   {
     "full_name": "Dhaiwat10/svelte-link-preview",
@@ -13,9 +13,9 @@
   },
   {
     "full_name": "Developer-DAO/web3-ui",
-    "stargazers_count": 395,
-    "open_issues_count": 28,
-    "forks_count": 71
+    "stargazers_count": 421,
+    "open_issues_count": 31,
+    "forks_count": 75
   },
   {
     "full_name": "stevene/DAOists",
@@ -26,7 +26,7 @@
   {
     "full_name": "moonshotcollective/moonswap",
     "stargazers_count": 5,
-    "open_issues_count": 9,
+    "open_issues_count": 10,
     "forks_count": 6
   },
   {
@@ -43,21 +43,21 @@
   },
   {
     "full_name": "Developer-DAO/developer-dao-nft-contract",
-    "stargazers_count": 138,
+    "stargazers_count": 140,
     "open_issues_count": 2,
-    "forks_count": 27
+    "forks_count": 28
   },
   {
     "full_name": "Developer-DAO/developerdao.com",
-    "stargazers_count": 346,
+    "stargazers_count": 350,
     "open_issues_count": 10,
     "forks_count": 82
   },
   {
     "full_name": "nextui-org/nextui",
-    "stargazers_count": 5101,
+    "stargazers_count": 5163,
     "open_issues_count": 29,
-    "forks_count": 201
+    "forks_count": 211
   },
   {
     "full_name": "Dhaiwat10/sol-escrow",
@@ -73,27 +73,27 @@
   },
   {
     "full_name": "sveltejs/svelte",
-    "stargazers_count": 56025,
-    "open_issues_count": 673,
-    "forks_count": 2723
+    "stargazers_count": 56161,
+    "open_issues_count": 682,
+    "forks_count": 2739
   },
   {
     "full_name": "sveltejs/kit",
-    "stargazers_count": 7066,
-    "open_issues_count": 410,
-    "forks_count": 599
+    "stargazers_count": 7165,
+    "open_issues_count": 418,
+    "forks_count": 617
   },
   {
     "full_name": "withastro/astro",
-    "stargazers_count": 10522,
-    "open_issues_count": 89,
-    "forks_count": 514
+    "stargazers_count": 10596,
+    "open_issues_count": 106,
+    "forks_count": 516
   },
   {
     "full_name": "chartjs/Chart.js",
-    "stargazers_count": 56204,
-    "open_issues_count": 129,
-    "forks_count": 11377
+    "stargazers_count": 56248,
+    "open_issues_count": 126,
+    "forks_count": 11378
   },
   {
     "full_name": "Dhaiwat10/furniture-exchange",
@@ -103,21 +103,21 @@
   },
   {
     "full_name": "react-navigation/react-navigation",
-    "stargazers_count": 20872,
-    "open_issues_count": 467,
-    "forks_count": 4543
+    "stargazers_count": 20889,
+    "open_issues_count": 472,
+    "forks_count": 4547
   },
   {
     "full_name": "supabase/supabase",
-    "stargazers_count": 28190,
-    "open_issues_count": 245,
-    "forks_count": 1584
+    "stargazers_count": 28819,
+    "open_issues_count": 243,
+    "forks_count": 1610
   },
   {
     "full_name": "fastify/fastify",
-    "stargazers_count": 22172,
-    "open_issues_count": 61,
-    "forks_count": 1643
+    "stargazers_count": 22233,
+    "open_issues_count": 59,
+    "forks_count": 1647
   },
   {
     "full_name": "Nazeeh21/Lottery-Contract",
@@ -133,19 +133,19 @@
   },
   {
     "full_name": "dailydotdev/apps",
-    "stargazers_count": 226,
+    "stargazers_count": 230,
     "open_issues_count": 6,
-    "forks_count": 52
+    "forks_count": 53
   },
   {
     "full_name": "calintamas/react-native-toast-message",
-    "stargazers_count": 670,
-    "open_issues_count": 21,
+    "stargazers_count": 674,
+    "open_issues_count": 22,
     "forks_count": 128
   },
   {
     "full_name": "twopluszero/next-images",
-    "stargazers_count": 843,
+    "stargazers_count": 846,
     "open_issues_count": 9,
     "forks_count": 63
   },
@@ -157,15 +157,15 @@
   },
   {
     "full_name": "Dhaiwat10/react-link-preview",
-    "stargazers_count": 83,
+    "stargazers_count": 84,
     "open_issues_count": 3,
     "forks_count": 23
   },
   {
     "full_name": "dethcrypto/TypeChain",
-    "stargazers_count": 1626,
-    "open_issues_count": 41,
-    "forks_count": 209
+    "stargazers_count": 1637,
+    "open_issues_count": 42,
+    "forks_count": 212
   },
   {
     "full_name": "Dhaiwat10/simple-nft",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "typescript-cheatsheets/react",
-    "stargazers_count": 31721,
-    "open_issues_count": 2,
-    "forks_count": 2645
+    "stargazers_count": 31800,
+    "open_issues_count": 3,
+    "forks_count": 2655
   }
 ]
