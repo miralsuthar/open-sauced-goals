@@ -13,9 +13,9 @@
   },
   {
     "full_name": "Developer-DAO/web3-ui",
-    "stargazers_count": 668,
+    "stargazers_count": 671,
     "open_issues_count": 19,
-    "forks_count": 122
+    "forks_count": 124
   },
   {
     "full_name": "stevene/DAOists",
@@ -37,7 +37,7 @@
   },
   {
     "full_name": "slipHQ/run-wasm",
-    "stargazers_count": 416,
+    "stargazers_count": 417,
     "open_issues_count": 18,
     "forks_count": 45
   },
@@ -49,15 +49,15 @@
   },
   {
     "full_name": "Developer-DAO/developerdao.com",
-    "stargazers_count": 406,
+    "stargazers_count": 405,
     "open_issues_count": 11,
     "forks_count": 101
   },
   {
     "full_name": "nextui-org/nextui",
-    "stargazers_count": 6848,
+    "stargazers_count": 6882,
     "open_issues_count": 39,
-    "forks_count": 325
+    "forks_count": 329
   },
   {
     "full_name": "Dhaiwat10/sol-escrow",
@@ -73,27 +73,27 @@
   },
   {
     "full_name": "sveltejs/svelte",
-    "stargazers_count": 59518,
-    "open_issues_count": 733,
-    "forks_count": 2902
+    "stargazers_count": 59590,
+    "open_issues_count": 738,
+    "forks_count": 2904
   },
   {
     "full_name": "sveltejs/kit",
-    "stargazers_count": 8766,
-    "open_issues_count": 356,
-    "forks_count": 774
+    "stargazers_count": 8803,
+    "open_issues_count": 358,
+    "forks_count": 782
   },
   {
     "full_name": "withastro/astro",
-    "stargazers_count": 12411,
-    "open_issues_count": 89,
-    "forks_count": 642
+    "stargazers_count": 12462,
+    "open_issues_count": 96,
+    "forks_count": 651
   },
   {
     "full_name": "chartjs/Chart.js",
-    "stargazers_count": 57267,
+    "stargazers_count": 57301,
     "open_issues_count": 161,
-    "forks_count": 11499
+    "forks_count": 11503
   },
   {
     "full_name": "Dhaiwat10/furniture-exchange",
@@ -103,26 +103,26 @@
   },
   {
     "full_name": "react-navigation/react-navigation",
-    "stargazers_count": 21285,
-    "open_issues_count": 553,
-    "forks_count": 4662
+    "stargazers_count": 21308,
+    "open_issues_count": 554,
+    "forks_count": 4666
   },
   {
     "full_name": "supabase/supabase",
-    "stargazers_count": 34515,
-    "open_issues_count": 272,
-    "forks_count": 2035
+    "stargazers_count": 34633,
+    "open_issues_count": 266,
+    "forks_count": 2048
   },
   {
     "full_name": "fastify/fastify",
-    "stargazers_count": 23832,
-    "open_issues_count": 59,
-    "forks_count": 1744
+    "stargazers_count": 23930,
+    "open_issues_count": 60,
+    "forks_count": 1751
   },
   {
     "full_name": "Nazeeh21/Lottery-Contract",
     "stargazers_count": 14,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 7
   },
   {
@@ -133,21 +133,21 @@
   },
   {
     "full_name": "dailydotdev/apps",
-    "stargazers_count": 278,
-    "open_issues_count": 6,
-    "forks_count": 66
+    "stargazers_count": 280,
+    "open_issues_count": 7,
+    "forks_count": 67
   },
   {
     "full_name": "calintamas/react-native-toast-message",
-    "stargazers_count": 791,
+    "stargazers_count": 795,
     "open_issues_count": 27,
-    "forks_count": 151
+    "forks_count": 152
   },
   {
     "full_name": "twopluszero/next-images",
-    "stargazers_count": 871,
+    "stargazers_count": 872,
     "open_issues_count": 11,
-    "forks_count": 62
+    "forks_count": 63
   },
   {
     "full_name": "Nazeeh21/Devdit-Blockchain",
@@ -158,13 +158,13 @@
   {
     "full_name": "Dhaiwat10/react-link-preview",
     "stargazers_count": 98,
-    "open_issues_count": 5,
-    "forks_count": 31
+    "open_issues_count": 7,
+    "forks_count": 32
   },
   {
     "full_name": "dethcrypto/TypeChain",
-    "stargazers_count": 1990,
-    "open_issues_count": 57,
+    "stargazers_count": 1998,
+    "open_issues_count": 56,
     "forks_count": 251
   },
   {
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "typescript-cheatsheets/react",
-    "stargazers_count": 34405,
+    "stargazers_count": 34495,
     "open_issues_count": 1,
-    "forks_count": 2957
+    "forks_count": 2962
   }
 ]
